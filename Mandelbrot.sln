@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot_single", "Mandelbrot_single\Mandelbrot_single.csproj", "{8ECA7D72-0E52-4CFB-8F5D-866757C7F10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot_threaded", "Mandelbrot_threaded\Mandelbrot_threaded.csproj", "{AE1859C5-3AC5-4E3F-90F2-FFBD528C9506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECA7D72-0E52-4CFB-8F5D-866757C7F10A}.Debug|x86.ActiveCfg = Debug|x86
+		{8ECA7D72-0E52-4CFB-8F5D-866757C7F10A}.Debug|x86.Build.0 = Debug|x86
+		{8ECA7D72-0E52-4CFB-8F5D-866757C7F10A}.Release|x86.ActiveCfg = Release|x86
+		{8ECA7D72-0E52-4CFB-8F5D-866757C7F10A}.Release|x86.Build.0 = Release|x86
+		{AE1859C5-3AC5-4E3F-90F2-FFBD528C9506}.Debug|x86.ActiveCfg = Debug|x86
+		{AE1859C5-3AC5-4E3F-90F2-FFBD528C9506}.Debug|x86.Build.0 = Debug|x86
+		{AE1859C5-3AC5-4E3F-90F2-FFBD528C9506}.Release|x86.ActiveCfg = Release|x86
+		{AE1859C5-3AC5-4E3F-90F2-FFBD528C9506}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
